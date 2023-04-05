@@ -29,7 +29,7 @@ public class NumberGuessingGame {
             }
 
             if (input == random_value){
-            System.out.println("You have correctly guessed the number!")
+            System.out.println("You have correctly guessed the number!");
             break; //breaks the loop once number is correctly guessed
             }
         }
